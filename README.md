@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... CS50
 - 💞️ I’m looking to collaborate on ... a digital synthesizer 
 - 📫 How to reach me ... james-does-ux.co
-- 😄 Pronouns: ... he
 - ⚡ Fun fact: ... ¡Estoy aprendiendo español!
 
 <!---
